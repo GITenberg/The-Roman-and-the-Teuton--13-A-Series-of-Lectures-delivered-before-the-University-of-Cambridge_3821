@@ -1,0 +1,50 @@
+_repo: The-Roman-and-the-Teuton--13-A-Series-of-Lectures-delivered-before-the-University-of-Cambridge_3821
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+  editor:
+    agent_name: Müller, F. Max (Friedrich Max)
+    aliases:
+    - Muller, F. Max (Friedrich Max)
+    - Müller, Max
+    - Müller, Friedrich Max
+    - F. Max Müller
+    - Mueller, Friedrich Max
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '787'
+    url: http://www.gutenberg.org/2009/agents/787
+    wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
+description: ''
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Germanic Invasions, 3rd-6th centuries'
+- !lcsh 'Germanic peoples'
+- !lcc 'D'
+- !lcsh 'Middle Ages'
+- GITenberg
+tableOfContents: 'Preface by Professor F. Max Muller -- The Forest Children -- The
+  Dying Empire -- Preface to Lecture III -- The Human Deluge -- The Gothic Civilizer
+  -- Dietrich''s End -- The Nemesis of the Goths -- Paulus Diaconus -- The Clergy
+  and the Heathen -- The Monk a Civilizer -- The Lombard Laws -- The Popes and the
+  Lombards -- The Strategy of Prividence ­-- Appendix: Inaugural Lecture: The Limits
+  of Exact Science as Applied to History.'
+title: "The Roman and the Teuton\r\nA Series of Lectures delivered before the University\
+  \ of Cambridge"
+url: http://www.gutenberg.org/ebooks/3821
