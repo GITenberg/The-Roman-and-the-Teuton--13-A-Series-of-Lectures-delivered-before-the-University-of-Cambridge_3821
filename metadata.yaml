@@ -1,5 +1,8 @@
 _repo: The-Roman-and-the-Teuton--13-A-Series-of-Lectures-delivered-before-the-University-of-Cambridge_3821
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Charles
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/787
     wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3821#The-Roman-and-the-Teuton--13-A-Series-of-Lectures-delivered-before-the-University-of-Cambridge
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
 identifiers:
